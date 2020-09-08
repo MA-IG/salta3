@@ -1,8 +1,5 @@
-steak
-tomates
-cheese
-oignons
-cornichons
-ketchup
-moutarde
-tomates
+cheese bio
+oignons bio
+cornichons bio
+ketchup bio
+moutarde bio
